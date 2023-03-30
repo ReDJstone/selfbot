@@ -1,0 +1,94 @@
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.10/site-packages/discord/http.py", line 300, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+  File "/home/redpi/.local/lib/python3.10/site-packages/discord/http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/redpi/Documents/bots/selfbot/selfbot.py", line 50, in <module>
+    bot.run(dict['redbot'])
+  File "/home/redpi/.local/lib/python3.10/site-packages/discord/client.py", line 723, in run
+    return future.result()
+  File "/home/redpi/.local/lib/python3.10/site-packages/discord/client.py", line 702, in runner
+    await self.start(*args, **kwargs)
+  File "/home/redpi/.local/lib/python3.10/site-packages/discord/client.py", line 665, in start
+    await self.login(*args, bot=bot)
+  File "/home/redpi/.local/lib/python3.10/site-packages/discord/client.py", line 511, in login
+    await self.http.static_login(token.strip(), bot=bot)
+  File "/home/redpi/.local/lib/python3.10/site-packages/discord/http.py", line 304, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+Traceback (most recent call last):
+  File "/home/redpi/.local/lib/python3.10/site-packages/discord/http.py", line 300, in static_login
+    data = await self.request(Route('GET', '/users/@me'))
+  File "/home/redpi/.local/lib/python3.10/site-packages/discord/http.py", line 254, in request
+    raise HTTPException(r, data)
+discord.errors.HTTPException: 401 Unauthorized (error code: 0): 401: Unauthorized
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/redpi/Documents/bots/selfbot/selfbot.py", line 50, in <module>
+    bot.run(dict['redbot'])
+  File "/home/redpi/.local/lib/python3.10/site-packages/discord/client.py", line 723, in run
+    return future.result()
+  File "/home/redpi/.local/lib/python3.10/site-packages/discord/client.py", line 702, in runner
+    await self.start(*args, **kwargs)
+  File "/home/redpi/.local/lib/python3.10/site-packages/discord/client.py", line 665, in start
+    await self.login(*args, bot=bot)
+  File "/home/redpi/.local/lib/python3.10/site-packages/discord/client.py", line 511, in login
+    await self.http.static_login(token.strip(), bot=bot)
+  File "/home/redpi/.local/lib/python3.10/site-packages/discord/http.py", line 304, in static_login
+    raise LoginFailure('Improper token has been passed.') from exc
+discord.errors.LoginFailure: Improper token has been passed.
+Traceback (most recent call last):
+  File "/home/redpi/Documents/bots/selfbot/selfbot.py", line 12, in <module>
+    bot = commands.Bot(command_prefix='r!', description='ReDJBoT', help_command=None, self_bot=True)
+NameError: name 'commands' is not defined
+Traceback (most recent call last):
+  File "/home/redpi/Documents/bots/selfbot/selfbot.py", line 13, in <module>
+    bot = commands.Bot(command_prefix='r!', description='ReDJBoT', help_command=None, self_bot=True)
+NameError: name 'commands' is not defined
+Traceback (most recent call last):
+  File "/home/redpi/Documents/bots/selfbot/selfbot.py", line 13, in <module>
+    bot = commands.Bot(command_prefix='r!', description='ReDJBoT', help_command=None, self_bot=True)
+NameError: name 'commands' is not defined
+r!mady 10
+gracias
+
+asdahdkbads grciaassadasdas
+igual de gillipollas que el bot ja
+Felicidades <@561343201856978946>, ya eres nivel 4 sigue asi!
+tu mamá
+mi mamá es una santa
+
+tu?
+NO SOY RUBIA
+(Mentira.
+y el nombre¿
+<:kappa:357109610198466581>
+Le va como un guante.
+
+Sigues siendo rubia, fuck you.
+xdxdxd
+pero por favor ese eyeliner
+🥵
+
+
+super inetensive minecraft player
+Si ven a aidan pongale este audio
+
+Sujsshhsnd
+Mi artista favorito me ha respondido
+Ahdbsjsjd
+follatelo
+qué
+so
+Pa
+po
+llas
+**Bienvenido <@989521387586719825> al Valhalla, espero que lo pases bien!**
+pas
